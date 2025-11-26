@@ -8,6 +8,8 @@ mvn test
 mvn package
 mvn install
 
+.java → (javac compiler) → .class → (JVM) → Program executes
+
 ----------------------------------------------------------
 
 This repository is for the
